@@ -1,4 +1,4 @@
 # NaviMeshIA
 
 
-![ALOW](/prints/img.jpg "TÍTULO")
+![ALOW](/prints/img.png "TÍTULO")
